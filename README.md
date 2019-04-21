@@ -1,4 +1,6 @@
 # My Sokoban Project (Realised 10.12.18)
+###### {EPITECH First Year Project}
+
 First project with NCurses library. The goal was to recreate the Sokoban game from scratch.
 
 ## Instructions
